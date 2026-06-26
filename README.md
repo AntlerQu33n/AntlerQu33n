@@ -2,7 +2,7 @@
 ## My Pronouns are He/they
 ## Fun Fact: I am Non-binary
 ## I graduated from Prospectives Rodney D. Joslin 5/27/26
-## I'm intern at CTA and I am currently working with Digital Scholars.
+## I'm interning at CTA and I am currently working with Digital Scholars.
 ## I am from Chicago, Illinois.
 ## The first peice of tech I've owned was a WiiU
 ## I am an Incoming Freshman going to SIU-C for Mortuary Science and Funeral Service.
