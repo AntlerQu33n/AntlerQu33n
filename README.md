@@ -1,6 +1,8 @@
 ## Hi there! My name is Monsora Cueto! 👋
-## I Am A intern at CTA and I am currently working with Digital Scholars.
+## I'm intern at CTA and I am currently working with Digital Scholars.
 ## I am currently learning how to code!
+## I'm an Aspiring Funeral Director, and I hope to reduce the need for mass burials!
+## I would like to know and understand how to code to start website building and app building.
 <!--
 **AntlerQu33n/AntlerQu33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
